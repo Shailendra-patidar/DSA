@@ -1,6 +1,5 @@
 package Arrays;
 
-import java.util.Arrays;
 
 public class MissingElement {
     public static void main(String[] args) {
