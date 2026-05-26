@@ -1,4 +1,4 @@
-package Arrays;
+package LeetCodeProblems;
 import java.util.Arrays;
 public class LongestCommonPrefixLeetcode {
     class Solution {

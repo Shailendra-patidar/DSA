@@ -4,12 +4,10 @@ public class Segregate0sAns1s {
     public static void main(String[] args) {
         int[] arr = {0,1,0,1,1,0};
         int numberOfZeros = 0;
-        int numberOfOnes = 0;
         for (int ele : arr){
             if (ele == 0){
                 numberOfZeros++;
             }
-            else numberOfOnes++;
         }
         System.out.print("Before segregation: ");
         for (int ele: arr){

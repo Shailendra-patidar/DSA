@@ -5,7 +5,7 @@ import java.util.Collections;
 
 public class AddOne {
     public static void main(String[] args) {
-        int[] arr = {9, 9, 9,8};
+        int[] arr = {9, 9, 9,9};
         ArrayList<Integer> ans = new ArrayList<>();
         int n = arr.length;
         int carry = 1;

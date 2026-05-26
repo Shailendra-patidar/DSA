@@ -1,4 +1,4 @@
-package Arrays;
+package LeetCodeProblems;
 
 // here is the only logic not ready to run here
 class Solution {
