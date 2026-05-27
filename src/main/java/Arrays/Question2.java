@@ -26,6 +26,15 @@ public class Question2 {
 //        }
 //        System.out.println("Duplicate element is: "+ k);
 
-
+        //Approach 3
+//        int i = 0;
+//        int j = x.length-1;
+//        while(i<j){
+//            if (x[i] == x[j]){
+//                System.out.println("Duplicate Element is: "+x[i]);
+//            }
+//            i++;
+//            j--;
+//        }
     }
 }
